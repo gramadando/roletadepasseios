@@ -1,0 +1,9 @@
+{
+  "name": "roleta-passeios-gramado",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roleta de passeios de Gramado com codigo de acesso de uso unico",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
